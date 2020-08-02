@@ -16,6 +16,7 @@ Regression neural network builder and visualizer, developed in WPF & Python.
 2. If blocked, unblock the application in its properties (no virus, I promise).
 3. Download the 'NeuralNetwork.py' file (view as RAW, save & rename extension from .txt to .py).
 4. Make sure 'NeuralNetwork.py' is in the same directory as 'CustomAI.exe'.
+5. Having Python and Numpy installed is a prerequisite.
 
 ![ExecutionLog](/Screenshots/ExecutionLog.png)
 ![NetworkPerformance](/Screenshots/NetworkPerformance.png)
